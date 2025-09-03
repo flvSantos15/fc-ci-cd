@@ -3,6 +3,7 @@ on:
   pull_request:
     branches:
       - develop
+
 strategy:
   matrix:
     go: ['1.14', '1.15']

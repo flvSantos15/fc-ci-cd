@@ -7,6 +7,5 @@ func main() {
 }
 
 func soma(a int, b int) int {
-	// teste
 	return a + b
 }
